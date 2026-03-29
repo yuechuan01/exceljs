@@ -491,3 +491,4 @@ Types:
   timePeriod:
     timePeriod: thisWeek | lastWeek | nextWeek | yesterday | today | tomorrow | last7Days | lastMonth | nextMonth
     formulae: An actual true/false formula
+log
